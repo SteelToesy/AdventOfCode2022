@@ -1,0 +1,5 @@
+C:\Users\Dion Vos\Documents\Visual Studio Projects\AdventOfCode\obj\Debug\net7.0\AdventOfCode.csproj.AssemblyReference.cache
+C:\Users\Dion Vos\Documents\Visual Studio Projects\AdventOfCode\obj\Debug\net7.0\AdventOfCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dion Vos\Documents\Visual Studio Projects\AdventOfCode\obj\Debug\net7.0\AdventOfCode.AssemblyInfoInputs.cache
+C:\Users\Dion Vos\Documents\Visual Studio Projects\AdventOfCode\obj\Debug\net7.0\AdventOfCode.AssemblyInfo.cs
+C:\Users\Dion Vos\Documents\Visual Studio Projects\AdventOfCode\obj\Debug\net7.0\AdventOfCode.csproj.CoreCompileInputs.cache
